@@ -1,6 +1,6 @@
-[ Team Members, Comma Separated ]
-[ App Name ]
-[ Brief Description (1 or 2 sentences) ]
-[ GitHub repository link ]
-[ Heroku/Deployment link ]
+[ Bryan Hansen, Radhika Gupta, Sabu Thomas ]
+[ Polling App ]
+[ A place where users can visit to browse polls. Registered users can create and vote a poll. Registered users can log in and create their own polls. Users can observe their own polling activity. Users can cast only one vote on every poll. ]
+[ https://github.com/Hansen1717/polling-app ]
+[ https://polling-app-project-3.herokuapp.com ]
 
